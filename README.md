@@ -1,0 +1,2 @@
+# myGitSample
+Sample Git App
